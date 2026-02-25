@@ -1,2 +1,12 @@
-# randomlotto-privacy
-Privacy policy for Random Lotto app
+<h1>개인정보처리방침</h1>
+
+<p>본 앱은 사용자의 개인정보를 수집하지 않습니다.</p>
+
+<h2>광고</h2>
+<p>본 앱은 Google AdMob 광고를 사용할 수 있으며, Google은 기기 정보 등을 수집할 수 있습니다.</p>
+
+<h2>인앱결제</h2>
+<p>광고 제거 인앱결제 기능을 제공하며, 결제는 Google Play를 통해 처리됩니다.</p>
+
+<h2>문의</h2>
+<p>문의: mintcloudstu@gmail.com</p>
